@@ -1,10 +1,43 @@
 body{
-    background: cyan;
-
+    font-family: 'Akaya Telivigala', cursive;
 }
+
+.header_div{
+    background:#95A3A4 ;
+    color: white;
+}
+
+#note{
+    font-weight: bold;
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
 .heading{
     font-family: 'Are You Serious', cursive;
     font-size: 50px;
     
 }
 
+
+
+.main_div{
+    background: #E2E8DD;
+}
+
+.main_div button{
+    margin-top: 10px;
+    font-size: large;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.copy_right_footer{
+    background: white;
+    width: 100%;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: 'Are You Serious', cursive;
+    text-shadow:5px 5px 5px rgb(72, 72, 72);
+    position: fixed;
+    bottom: 0; 
+}
